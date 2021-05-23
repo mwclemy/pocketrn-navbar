@@ -10,12 +10,6 @@
     cursor: pointer;
 }
 
-.drawerToggle div {
-    width: 50%;
-    height: 2px;
-    background-color: #666666;
-}
-
 @media (min-width: 500px) {
     .drawerToggle {
         display: none;
