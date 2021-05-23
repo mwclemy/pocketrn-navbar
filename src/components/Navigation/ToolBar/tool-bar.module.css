@@ -1,0 +1,39 @@
+.toolBar {
+    height: 69px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+    box-sizing: border-box;
+    z-index: 90;
+}
+  
+  .toolBar nav {
+    height: 100%;
+  }
+  .logo {
+      height: 80%;
+  }
+
+  @media(max-width: 499px) {
+      .deskTopOnly {
+          display: none;
+      }
+  }
+
+  @media (min-width: 500px) and (max-width: 870px) {
+    .toolBar nav {
+        width: 100%;
+        height: 100%;
+      }
+    .logo {
+        height: 60%;
+        width: 25%;
+    }
+
+}
