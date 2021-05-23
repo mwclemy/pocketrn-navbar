@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mwclemy/pocketrn-navbar/static/css/main.6a1e3676.chunk.css",
+    "main.js": "/mwclemy/pocketrn-navbar/static/js/main.073adee8.chunk.js",
+    "main.js.map": "/mwclemy/pocketrn-navbar/static/js/main.073adee8.chunk.js.map",
+    "runtime-main.js": "/mwclemy/pocketrn-navbar/static/js/runtime-main.057de4bf.js",
+    "runtime-main.js.map": "/mwclemy/pocketrn-navbar/static/js/runtime-main.057de4bf.js.map",
+    "static/js/2.7e792028.chunk.js": "/mwclemy/pocketrn-navbar/static/js/2.7e792028.chunk.js",
+    "static/js/2.7e792028.chunk.js.map": "/mwclemy/pocketrn-navbar/static/js/2.7e792028.chunk.js.map",
+    "static/js/3.751663b8.chunk.js": "/mwclemy/pocketrn-navbar/static/js/3.751663b8.chunk.js",
+    "static/js/3.751663b8.chunk.js.map": "/mwclemy/pocketrn-navbar/static/js/3.751663b8.chunk.js.map",
+    "index.html": "/mwclemy/pocketrn-navbar/index.html",
+    "static/css/main.6a1e3676.chunk.css.map": "/mwclemy/pocketrn-navbar/static/css/main.6a1e3676.chunk.css.map",
+    "static/js/2.7e792028.chunk.js.LICENSE.txt": "/mwclemy/pocketrn-navbar/static/js/2.7e792028.chunk.js.LICENSE.txt",
+    "static/media/logo.b9fcd954.png": "/mwclemy/pocketrn-navbar/static/media/logo.b9fcd954.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.057de4bf.js",
+    "static/js/2.7e792028.chunk.js",
+    "static/css/main.6a1e3676.chunk.css",
+    "static/js/main.073adee8.chunk.js"
+  ]
+}
